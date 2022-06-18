@@ -58,5 +58,7 @@ public class Laboratorio6_Test {
 		alerta.hacerClicEnEscribir();
 		alerta.escribirEnAlerta("Clase de Automatización");
 		alerta.aceptarAlerta();
+		
+		System.out.println("Fin del método de AlertaEscribir");
 	}
 }
